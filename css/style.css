@@ -1143,7 +1143,7 @@ text-align: center;
   margin: auto;
   text-align: center;
   margin-top: 30px;
-  background-color:  rgb(137, 92, 79);
+  background-color:  rgb(163, 111, 97);
   color: white;
   line-height: 56px;
   font-size: 40px;
@@ -1154,7 +1154,10 @@ text-align: center;
   text-transform: uppercase;
   font-size: 18px;
   margin-top: 15px;
-   color: rgb(97, 64, 55);
+   color: rgb(139, 98, 87);
+}
+.finish-icons a i:hover{
+background-color:rgb(137, 78, 62);
 }
 
 
